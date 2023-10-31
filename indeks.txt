@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>d_bouqet_</title>
+    <style>
+        /* Gaya CSS dapat ditambahkan di sini */
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url(Zjpeg);
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-image: url(027646e3c6db2deada8172f48b641a20.jpg);
+            color: #595050;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            background-color: #a39494;
+            text-align: center;
+            padding: 10px;
+        }
+        nav a {
+            text-decoration: none;
+            color: #fff;
+            margin: 10px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .product {
+            background-color: #e3d5d5;
+            padding: 20px;
+            margin: 10px;
+            border: 1px solid #a49393;
+            border-radius: 5px;
+            text-align: center;
+            
+        }
+    </style>
+</head>
+<body>
+    <header>
+        
+        <img src="x.jpg" alt="width=100" height="100">
+    </header>
+    <nav>
+        <a href="../buket/Bahrul ilmi">Beranda</a>
+        <a href="https://www.instagram.com/d_bouqet_/">Produk</a>
+        <a href="#">Keranjang</a>
+        <a href="https://api.whatsapp.com/send/?phone=62895415547070&text&type=phone_number&app_absent=0">Kontak</a>
+    </nav>
+    <div class="container">
+        <div class="product">
+            <h2>Buket Snack</h2>
+        
+            <img src="A.jpg" alt="width=300" height="300">
+            <p>Harga: Rp 70.000</p>
+            <p>Deskripsi:Untuk buket  custom dan menyesuaikan budget <br <hr> silahkan klik beranda dan hubungi kontak yang tertera diatas
+        
+                .</p>
+            <button><a href="https://api.whatsapp.com/send/?phone=62895415547070&text&type=phone_number&app_absent=0">Beli</a></button>
+        </div>
+        <div class="product">
+            <h2>Buket Kupu-kupu</h2>
+            <img src="B.jpg" alt="width=300" height="300">
+            <p>Harga: Rp 55.000</p>
+            <p>Deskripsi:Untuk buket  custom dan menyesuaikan budget <br <hr>silahkan klik beranda dan hubungi kontak yang tertera diatas.</p>
+            <button><a href="https://api.whatsapp.com/send/?phone=62895415547070&text&type=phone_number&app_absent=0">Beli</a></button>
+        </div>
+        <div class="product">
+            <h2>Buket Bunga & Boneka</h2>
+            <img src="C.jpg" alt="width=300" height="300">
+            <p>Harga: Rp 85.000</p>
+            <p>Deskripsi:  Untuk buket  custom dan menyesuaikan budget <br <hr>silahkan klik beranda dan hubungi kontak yang tertera diatas</p>
+            <button><a href="https://api.whatsapp.com/send/?phone=62895415547070&text&type=phone_number&app_absent=0">Beli</a></button>
+        </div>
+        <div class="product">
+            <h2>Buket Mix snack</h2>
+            <img src="D.jpg" alt="width=300" height="300">
+            <p>Harga: Rp 70.000</p>
+            <p>Deskripsi:Untuk buket  custom dan menyesuaikan budget <br <hr>silahkan klik beranda dan hubungi kontak yang tertera diatas.</p>
+            <button><a href="https://api.whatsapp.com/send/?phone=62895415547070&text&type=phone_number&app_absent=0">Beli</a></button>
+        </div>
+      
+      
+      
+    <div class="product">
+        <h2>Buket Duit</h2>
+        <img src="E.jpg" alt="width=300"height=300>
+        <p>Harga: Rp 70.000</p>
+        <p;">Deskripsi:Untuk buket  custom dan menyesuaikan budget <br <hr>silahkan klik beranda dan hubungi kontak yang tertera diatas.</p>
+        <button><a href="https://api.whatsapp.com/send/?phone=62895415547070&text&type=phone_number&app_absent=0">Beli</a></button>
+    </div>
+    <div class="product">
+        <h2>Buket Boneka & Snack</h2>
+        <img src="F.jpg" alt="width=300"height=300>
+        <p>Harga: Rp 70.000</p>
+        <p;">Deskripsi:Untuk buket  custom dan menyesuaikan budget <br <hr>silahkan klik beranda dan hubungi kontak yang tertera diatas.</p>
+        <button><a href="https://api.whatsapp.com/send/?phone=62895415547070&text&type=phone_number&app_absent=0">Beli</a></button>
+    </div>
+    <div class="product">
+        <h2>Buket Boneka</h2>
+        <img src="J.jpg" alt="width=300"height=300>
+        <p>Harga: Rp 50.000</p>
+        <p;">Deskripsi:Untuk buket  custom dan menyesuaikan budget <br <hr>silahkan klik beranda dan hubungi kontak yang tertera diatas.</p>
+        <button><a href="https://api.whatsapp.com/send/?phone=62895415547070&text&type=phone_number&app_absent=0">Beli</a></button>
+    </div>
+    <div class="product">
+        <h2>Buket Wisuda</h2>
+        <img src="../buket/AB.jpg" alt="width=300"height=300>
+        <p>Harga: Rp 75.000</p>
+        <p;">Deskripsi:Untuk buket  custom dan menyesuaikan budget <br <hr>silahkan klik beranda hubungi kontak yang tertera diatas.</p>
+        <button><a href="https://api.whatsapp.com/send/?phone=62895415547070&text&type=phone_number&app_absent=0">Beli</a></button>
+    </div>
+    <div class="product">
+        <h2>Buket Bunga</h2>
+        <img src="../buket/AC.jpg" alt="width=300"height=300>
+        <p>Harga: Rp 70.000</p>
+        <p;">Deskripsi:Untuk buket  custom dan menyesuaikan budget <br <hr>silahkan klik beranda dan hubungi kontak yang tertera diatas.</p>
+        <button><a href="https://api.whatsapp.com/send/?phone=62895415547070&text&type=phone_number&app_absent=0">Beli</a></button>
+    </div>
+    <div class="product">
+        <h2>Buket Bunga</h2>
+        <img src="../buket/AD.jpg" alt="width=300"height=300>
+        <p>Harga: Rp 75.000</p>
+        <p;">Deskripsi:Untuk buket  custom dan menyesuaikan budget <br <hr>silahkan klik beranda dan hubungi kontak yang tertera diatas.</p>
+        <button><a href="https://api.whatsapp.com/send/?phone=62895415547070&text&type=phone_number&app_absent=0">Beli</a></button>
+    </div>
+    <div class="product">
+        <h2>Buket Snack & Boneka</h2>
+        <img src="../buket/AE.jpg" alt="width=300"height=300>
+        <p>Harga: Rp 60.000</p>
+        <p;">Deskripsi:Untuk buket  custom dan menyesuaikan budget <br <hr>silahkan klik beranda dan hubungi kontak yang tertera diatas.</p>
+        <button><a href="https://api.whatsapp.com/send/?phone=62895415547070&text&type=phone_number&app_absent=0">Beli</a></button>
+    </div>
+    <div class="product">
+        <h2>Buket Custom</h2>
+        <img src="../buket/AF.jpg" alt="width=300"height=300>
+        <p>Harga: Rp 55.000</p>
+        <p;">Deskripsi:Untuk buket  custom dan menyesuaikan budget <br <hr>silahkan klik beranda dan hubungi kontak yang tertera diatas.</p>
+        <button><a href="https://api.whatsapp.com/send/?phone=62895415547070&text&type=phone_number&app_absent=0">Beli</a></button>
+    </div>
+    
+</body>
+</html>
